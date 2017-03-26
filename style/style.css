@@ -184,9 +184,8 @@ nav{
 }
 
 .second{
-	background: url(../images/hand.png) no-repeat;
+	background: #f5f6f7 url(../images/hand.png) no-repeat;
     background-position: 80.21% 100%;
-    background-color: #f5f6f7;
     height: 493px;
 }
 
