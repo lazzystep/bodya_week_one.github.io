@@ -194,10 +194,10 @@ nav{
 	padding: 110px 0px 0px 128px;
 }
 
-.third{
+.thirdblock{
 	display: flex;
   	justify-content: space-between;
-	height: 558px;
+  	height: 558px;
 }
 
 .third .pip:first-child{
@@ -291,9 +291,9 @@ span{
 }
 
 .lower h4{
-	padding-top: 23px;
-	padding-bottom: 20px;
-    letter-spacing: 2.2px;
+	padding-top: 24px;
+    padding-bottom: 19px;
+    letter-spacing: 2.3px;
 	font-size: 16px;
 	text-transform: uppercase;
 	color: #373737;
@@ -308,9 +308,9 @@ span{
 }
 
 .info {
-    padding-top: 45px;
-    padding-left: 129px;
-    padding-right: 83px;
+    padding-top: 43px;
+    padding-left: 1px;
+    padding-right: 81px;
 }
 
 .padder{
@@ -330,7 +330,7 @@ span{
 .fifth h2{
 	padding-top: 346px;
     letter-spacing: 3.567px;
-    padding-bottom: 29px;
+    padding-bottom: 28px;
     padding-left: 4px;
 	font-size: 24px;
 	color: white;
@@ -340,6 +340,7 @@ span{
 .fifth_cont{
 	display: flex;
     height: 60px;
+    padding-left: 68px;
 }
 
 input{
@@ -386,7 +387,8 @@ input{
 }
 
 .sixth_btn{
-	padding-top: 41px;
+	padding-top: 39px;
+    padding-left: 97px;
 	display: flex;
 	flex-direction: row;
 }
@@ -417,9 +419,12 @@ input{
 
 footer{
 	color:#373737;
+	height: 131px;
+}
+
+.footer_main{
 	display: flex;
 	justify-content: space-between;
-	height: 131px;
 }
 
 .footer_left{
